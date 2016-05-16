@@ -1,0 +1,16 @@
+SMAP
+view_005fall_005fusers_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_all_users.jsp
+view_all_users.jsp
++ 1 admin_menu.html
+admin_menu.html
+*L
+1,16:50
+1#1,14:66
+16#0,22:80
+40,29:105
+68,23:134
+*E

@@ -1,0 +1,18 @@
+SMAP
+view_005fall_005fvideos_005fuser_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_all_videos_user.jsp
+view_all_videos_user.jsp
++ 1 user_menu.html
+user_menu.html
+*L
+1,20:50
+1#1,13:70
+20#0,13:83
+34,43:98
+76,4:141
+79,23:145
+101,18:168
+*E

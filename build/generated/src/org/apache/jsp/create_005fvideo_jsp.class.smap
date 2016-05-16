@@ -1,0 +1,18 @@
+SMAP
+create_005fvideo_jsp.java
+JSP
+*S JSP
+*F
++ 0 create_video.jsp
+create_video.jsp
++ 1 admin_menu.html
+admin_menu.html
+*L
+1,15:49
+1#1,14:64
+15#0,3:78
+18,7:82
+24,10:89
+34:99,3
+35,106:102
+*E

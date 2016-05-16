@@ -1,0 +1,16 @@
+SMAP
+admin_005fpanel_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_panel.jsp
+admin_panel.jsp
++ 1 admin_menu.html
+admin_menu.html
+*L
+1,15:49
+1#1,14:64
+15#0:78
+16:79,3
+17,29:82
+*E

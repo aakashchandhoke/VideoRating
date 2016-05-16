@@ -1,0 +1,16 @@
+SMAP
+user_005fpanel_jsp.java
+JSP
+*S JSP
+*F
++ 0 user_panel.jsp
+user_panel.jsp
++ 1 user_menu.html
+user_menu.html
+*L
+1,15:49
+1#1,13:64
+15#0:77
+16:78,3
+17,29:81
+*E
